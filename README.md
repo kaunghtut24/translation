@@ -41,7 +41,7 @@ This is a simple translation app built using Streamlit and the Backenster transl
 1. Run the app:
 
    ```bash
-   streamlit run app.py
+   streamlit run copy.py
    ```
 
 2. Enter the text you want to translate in the text area.
@@ -74,7 +74,7 @@ The app currently supports the following languages:
 - Portuguese (Brazil)
 - Portuguese
 - Arabic
-# and many more
+- and many more
 
 ## Contributing
 
@@ -86,9 +86,4 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 - Streamlit
 ```
 
-**Remember to replace the following placeholders:**
 
-- `your-username`: Your GitHub username
-- `your-repo-name`: The name of your repository
-- `your_actual_api_key_here`: Your actual Backenster API key
-- `app.py`: The name of your main Python script
